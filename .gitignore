@@ -1,0 +1,91 @@
+# WonderKnowledge .gitignore
+
+# ===== Obsidian =====
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js
+.obsidian/themes/
+.trash/
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# ===== Cache =====
+__pycache__/
+*.py[cod]
+*$py.class
+.cache/
+*.cache
+
+# ===== Sync =====
+.obsidian-sync/
+*.sync-conflict
+.sync/
+.dropbox*
+.dropbox/
+
+# ===== Temp =====
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
+tmp/
+temp/
+
+# ===== Node =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ===== Python =====
+venv/
+.venv/
+env/
+.env/
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+
+# ===== Environment & Secrets =====
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.cert
+
+# ===== AI Agent Memory =====
+.memory/
+*.embeddings
+*.vector_db
+
+# ===== Data Files =====
+*.csv
+*.sqlite
+*.db
+
+# ===== Large Files =====
+*.zip
+*.tar.gz
+*.rar
+*.7z

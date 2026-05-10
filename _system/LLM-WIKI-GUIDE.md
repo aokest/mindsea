@@ -1,4 +1,4 @@
-# MindSea LLM Wiki 完整架构指南
+# 识海 · 完整架构指南
 
 > 版本: 2.0
 > MindSea 是一个面向 LLM 时代的知识管理框架，基于 Karpathy 的 LLM Wiki 方法论，

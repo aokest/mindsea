@@ -1,4 +1,4 @@
-# MindSea 知识宪法 (Knowledge Constitution)
+# 识海 · 知识宪法 (Knowledge Constitution)
 
 > 版本: 2.0 | 本文档定义了整个知识图谱的结构规范、实体类型、关联规则和操作铁律。
 > 所有 AI Agent 和用户操作均须遵守本宪法。
